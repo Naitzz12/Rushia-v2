@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "anime-wallpaper": "^3.2.2",
+    "axios": "^1.7.7",
+    "baileys": "^6.7.7",
+    "bimasky-dl": "^1.4.7",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "google-img-scrap": "^1.1.3",
+    "google-sr": "^4.0.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.46",
+    "nayan-media-downloader": "^2.6.4",
+    "nickname-generator": "^1.1.1",
+    "node-tiklydown": "^2.0.0-lts",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "ping": "^0.4.4",
+    "pino": "^9.3.2",
+    "pinterest-dl": "^1.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "rahad-media-downloader": "^2.1.14",
+    "translate-core": "^1.0.0",
+    "wa-sticker-formatter": "^4.4.4",
+    "youtube-sr": "^4.3.11"
+  },
+  "name": "mybot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node message.js"
+  },
+  "author": "Naitzz",
+  "license": "ISC",
+  "description": ""
+}
